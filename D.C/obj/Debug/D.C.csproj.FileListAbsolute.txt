@@ -1,0 +1,174 @@
+C:\Users\vitor\source\repos\D.C\D.C\bin\D.C.dll.config
+C:\Users\vitor\source\repos\D.C\D.C\bin\D.C.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\D.C.pdb
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\csc.exe
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\csc.exe.config
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\csc.rsp
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\csi.exe
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\csi.exe.config
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\csi.rsp
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.AppContext.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Console.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.IO.Compression.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.IO.Pipes.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Security.Claims.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.ValueTuple.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\vbc.exe
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\vbc.exe.config
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\vbc.rsp
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\VBCSCompiler.exe
+C:\Users\vitor\source\repos\D.C\D.C\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vitor\source\repos\D.C\D.C\bin\Antlr3.Runtime.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\EntityFramework.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\EntityFramework.SqlServer.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\Newtonsoft.Json.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.Helpers.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.Mvc.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.Optimization.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.Razor.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.WebPages.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.WebPages.Razor.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\WebGrease.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\EntityFramework.xml
+C:\Users\vitor\source\repos\D.C\D.C\bin\EntityFramework.SqlServer.xml
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.Helpers.xml
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.Mvc.xml
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.Optimization.xml
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.Razor.xml
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.WebPages.xml
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vitor\source\repos\D.C\D.C\bin\System.Web.WebPages.Razor.xml
+C:\Users\vitor\source\repos\D.C\D.C\bin\Newtonsoft.Json.xml
+C:\Users\vitor\source\repos\D.C\D.C\bin\Antlr3.Runtime.pdb
+C:\Users\vitor\source\repos\D.C\D.C\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vitor\source\repos\D.C\D.C\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\vitor\source\repos\D.C\D.C\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\vitor\source\repos\D.C\D.C\obj\Debug\D.C.csprojAssemblyReference.cache
+C:\Users\vitor\source\repos\D.C\D.C\obj\Debug\D.C.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\D.C\D.C\obj\Debug\D.C.csproj.CopyComplete
+C:\Users\vitor\source\repos\D.C\D.C\obj\Debug\D.C.dll
+C:\Users\vitor\source\repos\D.C\D.C\obj\Debug\D.C.pdb
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\D.C.dll.config
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\D.C.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\D.C.pdb
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\csc.exe
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\csc.exe.config
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\csc.rsp
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\csi.exe
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\csi.exe.config
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\csi.rsp
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.AppContext.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Console.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\vbc.exe
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\vbc.exe.config
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\vbc.rsp
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\Antlr3.Runtime.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\EntityFramework.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\EntityFramework.SqlServer.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\Newtonsoft.Json.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.Helpers.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.Mvc.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.Optimization.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.Razor.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.WebPages.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\WebGrease.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\EntityFramework.xml
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\EntityFramework.SqlServer.xml
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.Helpers.xml
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.Mvc.xml
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.Optimization.xml
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.Razor.xml
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.WebPages.xml
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\Newtonsoft.Json.xml
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\Antlr3.Runtime.pdb
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\obj\Debug\D.C.csprojAssemblyReference.cache
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\obj\Debug\D.C.csproj.CoreCompileInputs.cache
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\obj\Debug\D.C.csproj.CopyComplete
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\obj\Debug\D.C.dll
+C:\Users\Jhonata Vincius\Desktop\D.C\D.C\obj\Debug\D.C.pdb
